@@ -1,0 +1,46 @@
+.register-page{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	margin-top:10px;
+
+}
+
+.register-logo{
+	width:130px;
+	margin-bottom:-10px;
+}
+
+
+.register-container{
+	width:350px;
+	min-width:100px;
+	border:2px solid lightgray;
+	height:auto;
+	padding:20px 20px;
+	margin:15px;
+	
+}
+
+.register-title{
+	font-size:32px;
+	font-weight:700;
+	margin-bottom:20px;
+	margin-top:-10px;
+}
+
+.register-submit{
+	border-bottom:1px solid gray;
+}
+
+.reg-login{
+	font-size:15px;
+	font-weight:600;
+	margin-bottom:-20px;
+}
+
+.register-underline{
+	margin-top:10px;
+	margin-bottom:5px;
+}

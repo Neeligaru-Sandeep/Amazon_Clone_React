@@ -1,0 +1,14 @@
+.check_out{
+	padding:20px;
+}
+
+.check_out_left img{
+	margin-top:60px;
+	width:100%;
+	
+}
+
+.checkout_title{
+	padding-bottom:10px;
+	border-bottom:2px solid lightgray;
+}

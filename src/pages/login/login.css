@@ -1,0 +1,65 @@
+.login-page{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	margin-top:10px;
+}
+
+.login-logo{
+	width:130px;
+	margin-bottom:-10px;
+}
+
+.login-form-container{
+	max-width:350px;
+	min-width:100px;
+	border:2px solid lightgray;
+	height:auto;
+	padding:20px 20px;
+	margin:10px;
+}
+
+.login-title{
+	font-size:32px;
+	font-weight:700;
+	margin-bottom:20px;
+}
+
+.login-label{
+	display:block;
+	font-size:14px;
+	font-weight:700;	
+	margin-bottom:2px;
+}
+
+.login-input{
+	width:100%;
+	height:30px;
+	outline:none;
+}
+
+.login-field{
+	margin-bottom:10px;
+}
+
+.login-conditions{
+	font-size:13px;
+	font-weight:600;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.newToAmazon{
+	font-size:14px;
+	text-align:center;
+	font-weight:700;
+	color:gray;
+}
+
+.submit{
+	margin-top:5px;
+	background:#F0C14B;
+	border:1px solid gray;
+	cursor:pointer;
+}
